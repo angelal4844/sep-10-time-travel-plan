@@ -6,4 +6,4 @@
 ## [Traveling to the universe](../Time-Travel-Machine/time-travel-to-the-universe/year.md)
 ## [Traveling to the future](../Time-Travel-Machine/time-travel-to-the-future/future/story-1.html)
 
-## [..](../Time-Travel Machine/time-travel-to-the-past/past/event-5.html)
+## [..](../Time-Travel-Machine/time-travel-to-the-past/past/event-5.html)
