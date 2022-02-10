@@ -2,4 +2,4 @@
 ---
 ## You're stuck here forever.  
   
-[Play again?](../../../../year/home.md)
+[Play again?](../../../year/home.md)
